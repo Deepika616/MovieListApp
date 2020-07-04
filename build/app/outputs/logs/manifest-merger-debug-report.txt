@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/cb434a3534939f0d23bf5d8b1845430b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0a4afaae7152becace99a168f61a078/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/e8d93fb3ae24aa5ccb687259a2847d56/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79db254bf719227cd0f7d89ee8f4142f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5d585862d4e893868ad9b74ddfd21464/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cdf3827b8c1c7183f8ada6c6ebfef30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24a3c56d34f0d488738c70b6eec7c4e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/891ba8f219a040cbbf3c630c3574738f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/7fcae6d96ef43ca0ebaa230b15611208/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fe182c515da7d90a4e8f72f7af34efdf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/ed96f60555d13b9e1a581d2ba695c289/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/8e3968a56d0e00a617316d06ed810e46/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:2:5-49
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/ed96f60555d13b9e1a581d2ba695c289/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/ed96f60555d13b9e1a581d2ba695c289/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:17:9-38
+	android:icon
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.ibhavikmakwana.fluttermovieapp.MainActivity
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/cb434a3534939f0d23bf5d8b1845430b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/cb434a3534939f0d23bf5d8b1845430b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0a4afaae7152becace99a168f61a078/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/e0a4afaae7152becace99a168f61a078/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/e8d93fb3ae24aa5ccb687259a2847d56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/e8d93fb3ae24aa5ccb687259a2847d56/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79db254bf719227cd0f7d89ee8f4142f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/79db254bf719227cd0f7d89ee8f4142f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5d585862d4e893868ad9b74ddfd21464/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/5d585862d4e893868ad9b74ddfd21464/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cdf3827b8c1c7183f8ada6c6ebfef30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2cdf3827b8c1c7183f8ada6c6ebfef30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24a3c56d34f0d488738c70b6eec7c4e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/24a3c56d34f0d488738c70b6eec7c4e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/891ba8f219a040cbbf3c630c3574738f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/891ba8f219a040cbbf3c630c3574738f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/4e8a8a866676ecb9b6b9c6ed6fe1f49d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/7fcae6d96ef43ca0ebaa230b15611208/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/7fcae6d96ef43ca0ebaa230b15611208/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fe182c515da7d90a4e8f72f7af34efdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/fe182c515da7d90a4e8f72f7af34efdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/ed96f60555d13b9e1a581d2ba695c289/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/ed96f60555d13b9e1a581d2ba695c289/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/8e3968a56d0e00a617316d06ed810e46/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iOS_Dev/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/8e3968a56d0e00a617316d06ed810e46/AndroidManifest.xml:20:5-44
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/AndroidManifest.xml
