@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/iOS_Dev/Desktop/Flutter_sdk/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/iOS_Dev/Downloads/flutter_movie_app-master"
+export "FLUTTER_APPLICATION_PATH=/Users/iOS_Dev/Documents/GitHub/MovieListApp"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"

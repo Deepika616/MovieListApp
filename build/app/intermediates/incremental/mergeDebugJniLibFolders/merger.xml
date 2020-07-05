@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/iOS_Dev/Downloads/flutter_movie_app-master/android/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/iOS_Dev/Documents/GitHub/MovieListApp/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/iOS_Dev/Documents/GitHub/MovieListApp/android/app/src/debug/jniLibs"/></dataSet></merger>
